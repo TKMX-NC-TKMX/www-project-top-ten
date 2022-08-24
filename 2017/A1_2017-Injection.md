@@ -9,7 +9,7 @@ layout: full-width-document
 author:
 contributors:
 tags: OWASP Top Ten 2017, Top Ten, A1:2017
-exploitability: 3
+exploitability: 3 
 prevalence: 2
 detectability: 3
 technical: 3
@@ -79,3 +79,22 @@ This changes the meaning of both queries to return all the records from the acco
 * [CWE-917: Expression Language Injection](https://cwe.mitre.org/data/definitions/917.html)<br>
 * [PortSwigger: Server-side template injection](https://portswigger.net/kb/issues/00101080_serversidetemplateinjection)
 {% include t10_subsection_end.html %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+su sitio fue hackeado por tkmx_nc_tkmx   
